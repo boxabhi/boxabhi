@@ -22,13 +22,6 @@ I am pursuing Master's Degree in Computer Science from Madan Mohan Malaviya Univ
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UC2zu5Ms9MQWg7-OonfCO47g?view_as=subscriber)
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
