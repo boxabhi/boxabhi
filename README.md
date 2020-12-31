@@ -9,6 +9,20 @@ I am pursuing Master's Degree in Computer Science from Madan Mohan Malaviya Univ
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning FullStack Web development
 - 👯 I’m open for freelance projects
+- I have a youtube channel
+
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+<br/>
 
 
 
@@ -26,9 +40,17 @@ I am pursuing Master's Degree in Computer Science from Madan Mohan Malaviya Univ
 
 
 **Languages & Tools:**
-
+<br/>
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=boxabhi&custom_title=Abhijeet Gupta&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="boxabhi's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxabhi&layout=compact&theme=default" />
+
+
+
+[website]: https://boxabhi.github.io/resume
+[youtube]: https://www.youtube.com/channel/UC2zu5Ms9MQWg7-OonfCO47g
+[instagram]: https://www.instagram.com/_abhijeetgupta/
+[linkedin]: https://www.linkedin.com/in/gupta-abhijeet/
 
 
 
