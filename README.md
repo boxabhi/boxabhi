@@ -9,7 +9,7 @@ I am pursuing Master's Degree in Computer Science from Madan Mohan Malaviya Univ
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning FullStack Web development
 - 👯 I’m open for freelance projects
-- I have a youtube channel
+- [<img align="left" alt="Code keen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]I have a youtube channel
 
 
 
