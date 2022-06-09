@@ -1,12 +1,11 @@
 
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Myself Abhijeet Gupta a Computer Science Engineering student.
-I am pursuing Master's Degree in Computer Science from Madan Mohan Malaviya University of Technology and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.
+Myself Abhijeet Gupta a Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.
 
  Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal project
+- 🔭 I belive in free education.
 - 🌱 I’m currently learning FullStack Web development
 - 👯 I’m open for freelance projects
 - [<img align="left" alt="Code keen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]I have a youtube channel
