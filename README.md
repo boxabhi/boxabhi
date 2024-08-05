@@ -1,48 +1,60 @@
+# Hi there, I'm Abhijeet Gupta! 👋
 
 
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Myself Abhijeet Gupta a Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.
+Welcome to my GitHub profile! 
+I'm a passionate backend developer with over 3 years of experience in creating robust, scalable applications. My expertise lies in **Django, Django Rest Framework**, and various other technologies that drive modern web development, including **Elasticsearch, Kafka, Celery, RabbitMQ, Redis, and deployment etc.**. I am an excellent problem solver who loves writing algorithms and building scalable applications.
 
- Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I belive in free education.
-- 🌱 I’m currently learning FullStack Web development
-- 👯 I’m open for freelance projects
-- [<img align="left" alt="Code keen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]I have a youtube channel
+- **Backend Development:** Django, Django Rest Framework, Celery, Redis, Elasticsearch, RabbitMQ, WebSockets
+- **Frontend Development:** ReactJS, JavaScript
+- **APIs & Integrations:** Third-party APIs, Salesforce
+- **Others:** Kafka, Zookeeper, Schedulers, Web Scraping, PDF Engine, Caching, Redis, Celery, Docker 
 
+## 💼 Work Experience
 
+### MOB (Backend Developer)
+- Created the entire backend for a B2B startup focused on same-day construction material delivery.
+- Designed the database schema, developed the e-commerce checkout funnel, and integrated APIs.
+- Tech stack: Django, ReactJS.
+- 
+### Supersourcing (Backend Developer)
+- Worked on **Inq**, an omni-channel platform in Africa.
+- Developed multiple APIs, managed backend databases, and integrated third-party APIs for billing systems.
+- Implemented Elasticsearch and Kibana, and worked with Salesforce for sales data dashboards.
+- Tech stack: Django Rest Framework, Celery, Redis, Elasticsearch, Salesforce.
 
-### Connect with me:
+### CognoAI (Full Stack Python Developer)
+- Developed backend APIs for projects like Kotak Bank.
+- Created chatbots and built online test functionalities for the Easy Step project.
+- Tech stack: Django, Django Rest Framework, JavaScript.
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Code keen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Abhijeet gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### CognoAI (Full Stack Python Developer)
+- Worked as a freelancer when back in College
+ 
 
+## 🚀 Projects & Contributions
 
-<br/>
-<br/>
-<br/>
+- **Vendor Management System:** A Django project managing multiple stores with distinct permissions and roles.
+- **Real-Time Location Tracking:** Integrated Kafka with Django for real-time updates of delivery boy locations.
+- **Notification System:** Developed a system for order status change notifications using Celery and Redis.
+- **Desktop Application for Consultancy Form:** Built a CRUD application with rich text fields, file attachments, and search/filter functionalities.
 
+## 📺 YouTube Channel
 
+I run a [YouTube channel](https://www.youtube.com/@codingforallnewtonschool) where I teach backend development, focusing on making advanced topics easy to understand. Some of my popular tutorials include:
+- Integrating Django with Kafka and Zookeeper
+- Creating a Celery Beat periodic scheduler
+- Real-time location tracking with Google Maps and Kafka
 
+## 🌐 Connect with Me
 
+- **Instagram:** [@_abhijeetgupta](https://www.instagram.com/_abhijeetgupta/)
+- **LinkedIn:** [Abhijeet Gupta](https://www.linkedin.com/in/gupta-abhijeet/)
+- **Leetcode:** [abhijeetg40](https://leetcode.com/abhijeetg40)
 
+Feel free to reach out for collaborations, job opportunities, or just a tech chat!
 
-<br/>
-<br/>
-<br/>
+---
 
-**Languages & Tools:**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=boxabhi&custom_title=Abhijeet Gupta&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="boxabhi's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxabhi&layout=compact&theme=default" />
-
-
-
-[website]: https://boxabhi.github.io/resume
-[youtube]: https://www.youtube.com/channel/UC2zu5Ms9MQWg7-OonfCO47g
-[instagram]: https://www.instagram.com/_abhijeetgupta/
-[linkedin]: https://www.linkedin.com/in/gupta-abhijeet/
-
-
-
+Thank you for visiting my GitHub profile! 😊
